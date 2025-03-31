@@ -1,6 +1,6 @@
 # New-project
 this can be used by everyone
-# techer name
+# teacher name 
 Sharaddha khapra
 # students name
 Sudhanshu pal
